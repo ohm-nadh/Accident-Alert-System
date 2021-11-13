@@ -1,0 +1,108 @@
+package com.example.accident_alert_system;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.content.Intent;
+import android.view.Menu;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+
+public class Home_Page extends Activity {
+	Button loc,vloc,vdang,comp,hosp,vio,log,b7;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_home__page);
+		loc=(Button)findViewById(R.id.button1);
+		vloc=(Button)findViewById(R.id.button2);
+		vdang=(Button)findViewById(R.id.button3);
+		comp=(Button)findViewById(R.id.button4);
+		hosp=(Button)findViewById(R.id.button5);
+		vio=(Button)findViewById(R.id.button6);
+		log=(Button)findViewById(R.id.button9);
+		
+		loc.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+				Intent i=new Intent(getApplicationContext(), Set_Location_Alerts.class);
+				startActivity(i);
+			}
+		});
+		
+		
+
+		
+		vloc.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+				Intent i=new Intent(getApplicationContext(), View_Location_Based_Alert.class);
+				startActivity(i);
+				
+			}
+		});
+		
+		vdang.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+				Intent i=new Intent(getApplicationContext(), View_dang_loctn_based_alert.class);
+				startActivity(i);
+				
+			}
+		});
+		comp.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+				Intent i=new Intent(getApplicationContext(), Post_Complaint_admin.class);
+				startActivity(i);
+				
+			}
+		});
+		hosp.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+				Intent i=new Intent(getApplicationContext(), View_nearest_hospital_details.class);
+				startActivity(i);
+			}
+		});
+		
+		vio.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+				Intent i=new Intent(getApplicationContext(), View_traffic_violation_details.class);
+				startActivity(i);
+			}
+		});
+		log.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				// TODO Auto-generated method stub
+				Intent i=new Intent(getApplicationContext(), Login.class);
+				startActivity(i);
+			}
+		});
+		
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.home__page, menu);
+		return true;
+	}
+
+}

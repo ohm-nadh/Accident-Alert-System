@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\GM\Work From Home 2020-21\Calicut IHRD readymade\Android\.metadata\.plugins\org.eclipse.jdt.core
+1780887113.index
+2799552457.index

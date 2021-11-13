@@ -1,0 +1,42 @@
+{% extends 'temp/admin.html' %}
+{% block base %}
+<h1 align="center"><u>SET DANGEROUS LOCATION</u></h1>
+<FORM method="post">
+	<table align="center">
+        {% csrf_token %}
+					<tr>
+						<td>LOCATION :</td>
+						<td><input type="text" name="name"></td>
+					</tr>
+					<tr>
+						<td>ALERT</td>
+						<td><input type="text" name="alert"></td>
+
+					</tr>
+					<tr>
+						<td>DATE</td>
+						<td><input type="DATE" name="DATE"></td>
+					</tr>
+					<tr>
+						<td>TIME</td>
+						<td><input type="time" name="time"></td>
+					</tr>
+                    <tr>
+                        <td>LATITUDE</td>
+                        <td><input type="text" name="LATITUDE"></td>
+                    </tr>
+                    <tr>
+                        <td>LONGTITUDE</td>
+                        <td><input type="text" name="LONGTITUDE"></td>
+                    </tr>
+					<tr>
+						<td><input type="submit" name="sub" value="SET" class="btn btn-primary"></td>
+						<td><input type="reset" name="sub" value="CANCEL"class="btn btn-primary"></td>
+					</tr>
+
+
+			</table>
+</FORM>
+<body>
+
+{% endblock %}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Accident_alert_system</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Accident_alert_system</string>
+    <string name="title_activity_set__location__alerts">Set_Location_Alerts</string>
+    <string name="title_activity_view__location__based__alert">View_Location_Based_Alert</string>
+    <string name="title_activity_view_dang_loctn_based_alert">View_dang_loctn_based_alert</string>
+    <string name="title_activity_post__complaint_admin">Post_Complaint_admin</string>
+    <string name="title_activity_view_nearest_hospital_details">View_nearest_hospital_details</string>
+    <string name="title_activity_view_traffic_violation_details">View_traffic_violation_details</string>
+    <string name="title_activity_home__page">Home_Page</string>
+    <string name="title_activity_userhome">Userhome</string>
+    <string name="title_activity_track_accideny">Track_accideny</string>
+
+</resources>

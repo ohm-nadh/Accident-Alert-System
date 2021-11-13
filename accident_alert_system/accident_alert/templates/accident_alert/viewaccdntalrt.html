@@ -1,0 +1,29 @@
+{% extends 'temp/admin.html' %}
+{% block base %}
+<h1 align="center">VIEW ACCIDENT ALERT DETAILS</h1>
+        <table align="center" border="1">
+		<tr>
+			<td>r_id</td>
+			<td>name</td>
+			<td>place</td>
+			<td>accident_alert</td>
+		    <td>time</td>
+            <td>date</td>
+
+		</tr>
+            {% if objval%}
+             {% for ob in objval%}
+		<tr>
+			<td>{{ ob.r_id }}</td>
+			<td>{{ ob.name }}</td>
+			<td>{{ ob.place }}</td>
+			<td>{{ ob.accident_alert }}</td>
+			<td>{{ ob.time }}</td>
+            <td>{{ ob.date }}</td>
+
+        </tr>
+            {% endfor %}
+        {% endif %}
+
+		</table>
+{% endblock %}

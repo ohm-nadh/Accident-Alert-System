@@ -1,0 +1,27 @@
+{% extends 'temp/admin.html' %}
+{% block base %}
+	<h1 align="center">ADD TRAFFIC VIOLATION DETAILS</h1>
+<form method="post">
+		<table align="center">
+            {% csrf_token %}
+
+
+					<tr>
+						<td>VIOLATION TYPE</td>
+						<td><input type="text" name="violation" required=""></td>
+
+
+
+					</tr>
+					<tr>
+						<td>FINE</td>
+						<td><input type="number" name="fine" required=""></td>
+					</tr>
+					
+					<tr>
+						<td><input type="submit" name="submit" value="ADD" class="btn btn-primary"></td>
+						<td><input type="reset" name="sub" value="CANCEL" class="btn btn-primary"></td>
+					</tr>
+		</table>
+</form>
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends 'temp/admin.html' %}
+{% block base %}
+		<h1 align="center"><u>UPDATE STATUS</u></h1>
+<table  align="center">
+<form method="POST">
+    {% csrf_token %}
+	<tr>
+ <td>UPDATE STATUS</td>
+	</tr>
+   <tr>
+        <td> <input type="text" name="status" ></td>
+   </tr>
+
+	<tr>
+        <td><input type="submit" name="post" value="UPDATE STATUS"></td>
+	</tr>
+</form>
+</table>
+{% endblock %}

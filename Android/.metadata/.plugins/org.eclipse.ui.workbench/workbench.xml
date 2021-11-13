@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="15" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="527" y="150">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="126" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="57" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="141" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="80" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="80" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="206" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1618994244647" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Home_Page.java" partName="Home_Page.java" path="C:/GM/Work From Home 2020-21/Calicut IHRD readymade/Android/Accident_alert_system/src/com/example/accident_alert_system/Home_Page.java" title="Home_Page.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/Home_Page.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Accident_alert_system/src/com/example/accident_alert_system/Home_Page.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4668" selectionTopPixel="2510"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="View_traffic_violation_details.java" partName="View_traffic_violation_details.java" path="C:/GM/Work From Home 2020-21/Calicut IHRD readymade/Android/Accident_alert_system/src/com/example/accident_alert_system/View_traffic_violation_details.java" title="View_traffic_violation_details.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/View_traffic_violation_details.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Accident_alert_system/src/com/example/accident_alert_system/View_traffic_violation_details.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="187" selectionOffset="1755" selectionTopPixel="450"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="View_dang_loctn_based_alert.java" partName="View_dang_loctn_based_alert.java" path="C:/GM/Work From Home 2020-21/Calicut IHRD readymade/Android/Accident_alert_system/src/com/example/accident_alert_system/View_dang_loctn_based_alert.java" title="View_dang_loctn_based_alert.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/View_dang_loctn_based_alert.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Accident_alert_system/src/com/example/accident_alert_system/View_dang_loctn_based_alert.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="240"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="View_Location_Based_Alert.java" partName="View_Location_Based_Alert.java" path="C:/GM/Work From Home 2020-21/Calicut IHRD readymade/Android/Accident_alert_system/src/com/example/accident_alert_system/View_Location_Based_Alert.java" title="View_Location_Based_Alert.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/View_Location_Based_Alert.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Accident_alert_system/src/com/example/accident_alert_system/View_Location_Based_Alert.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="Accident_alert_system Manifest" path="C:/GM/Work From Home 2020-21/Calicut IHRD readymade/Android/Accident_alert_system/AndroidManifest.xml" title="Accident_alert_system Manifest" tooltip="Accident_alert_system/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Accident_alert_system/AndroidManifest.xml"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1618994244647">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Warnings (20 items)"/>
+<category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="120" org.eclipse.ui.ide.markerType="120" org.eclipse.ui.ide.pathField="160" org.eclipse.ui.ide.resourceField="120" org.eclipse.ui.ide.severityAndDescriptionField="400"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
+<perspective_action id="com.android.ide.eclipse.hierarchyviewer.PixelPerfectPespective"/>
+<perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="com.android.ide.eclipse.ddms.views.LogCatView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.JavadocView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.SourceView" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.20022002"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" ratio="0.19911991"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@eaeaf8" ratio="0.749499" ratioLeft="748" ratioRight="250" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.15924568" ratioLeft="304" ratioRight="1605" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.7488152" ratioLeft="474" ratioRight="159" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.8364514" ratioLeft="1386" ratioRight="271" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Set_Location_Alerts.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Login.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Post_Complaint_admin.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Register.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/View_dang_loctn_based_alert.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/View_Location_Based_Alert.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/View_nearest_hospital_details.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/View_traffic_violation_details.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Track_accident.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Accident_alert_system/res/layout/activity_track_accideny.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Accident_alert_system/res/layout/activity_view_traffic_violation_details.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Accident_alert_system/res/layout/activity_track_accideny.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Track_accideny.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Set_Location_Alerts.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Accident_alert_system/res/layout/accident.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Accident_alert_system/res/layout/view_vio.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Accident_alert_system/res/layout/view_loc.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/Accident_alert_system/res/layout/view_hsp.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Login.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Track_accideny.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Login.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Set_Location_Alerts.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/Accident_alert_system/bin/Accident_alert_system.apk"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Home_Page.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/Home_Page.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/View_traffic_violation_details.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/View_dang_loctn_based_alert.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Accident_alert_system/src/com/example/accident_alert_system/View_Location_Based_Alert.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/Accident_alert_system/AndroidManifest.xml"/>
+</editors>
+<item historyLabel="Login.java" index="1">
+<position info="not_deleted" x="1875" y="14"/>
+</item>
+<item historyLabel="Post_Complaint_admin.java" index="2">
+<position info="not_deleted" x="4609" y="0"/>
+</item>
+<item historyLabel="Register.java" index="3">
+<position info="not_deleted" x="2333" y="0"/>
+</item>
+<item historyLabel="Set_Location_Alerts.java" index="0">
+<position info="not_deleted" x="7042" y="14"/>
+</item>
+<item historyLabel="View_dang_loctn_based_alert.java" index="4">
+<position info="not_deleted" x="1304" y="0"/>
+</item>
+<item historyLabel="View_Location_Based_Alert.java" index="5">
+<position info="not_deleted" x="2315" y="0"/>
+</item>
+<item historyLabel="View_nearest_hospital_details.java" index="6">
+<position info="not_deleted" x="1304" y="0"/>
+</item>
+<item historyLabel="View_traffic_violation_details.java" index="7">
+<position info="not_deleted" x="2094" y="0"/>
+</item>
+<item historyLabel="Track_accident.java" index="8">
+<position/>
+</item>
+<item historyLabel="View_traffic_violation_details.java" index="7">
+<position info="not_deleted" x="2094" y="0"/>
+</item>
+<item historyLabel="Track_accident.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="View_traffic_violation_details.java" index="7">
+<position info="not_deleted" x="2094" y="0"/>
+</item>
+<item historyLabel="View_dang_loctn_based_alert.java" index="4">
+<position info="not_deleted" x="1304" y="0"/>
+</item>
+<item historyLabel="activity_track_accideny.xml" index="9"/>
+<item historyLabel="activity_view_traffic_violation_details.xml" index="10"/>
+<item historyLabel="activity_track_accideny.xml" index="11"/>
+<item historyLabel="activity_view_traffic_violation_details.xml" index="10"/>
+<item historyLabel="activity_track_accideny.xml" index="11"/>
+<item historyLabel="Track_accideny.java" index="12">
+<position/>
+</item>
+<item historyLabel="Set_Location_Alerts.java" index="13">
+<position info="not_deleted" x="7083" y="0"/>
+</item>
+<item historyLabel="Track_accideny.java" index="12">
+<position info="not_deleted" x="1599" y="35"/>
+</item>
+<item historyLabel="Set_Location_Alerts.java" index="13">
+<position info="not_deleted" x="7020" y="63"/>
+</item>
+<item historyLabel="Track_accideny.java" index="12">
+<position info="not_deleted" x="3631" y="0"/>
+</item>
+<item historyLabel="accident.xml" index="14"/>
+<item historyLabel="view_vio.xml" index="15"/>
+<item historyLabel="view_loc.xml" index="16"/>
+<item historyLabel="view_hsp.xml" index="17"/>
+<item historyLabel="accident.xml" index="14">
+<position info="not_deleted" x="3210" y="251"/>
+</item>
+<item historyLabel="Track_accideny.java" index="12">
+<position info="not_deleted" x="3621" y="0"/>
+</item>
+<item historyLabel="accident.xml" index="14"/>
+<item historyLabel="Track_accideny.java" index="12">
+<position info="not_deleted" x="3790" y="0"/>
+</item>
+<item historyLabel="Login.java" index="18">
+<position info="not_deleted" x="2079" y="0"/>
+</item>
+<item historyLabel="Track_accideny.java" index="19">
+<position info="not_deleted" x="1653" y="0"/>
+</item>
+<item historyLabel="Login.java" index="20">
+<position info="not_deleted" x="1687" y="0"/>
+</item>
+<item historyLabel="Set_Location_Alerts.java" index="21">
+<position info="not_deleted" x="6855" y="835"/>
+</item>
+<item historyLabel="Track_accideny.java" index="19">
+<position info="not_deleted" x="1353" y="0"/>
+</item>
+<item historyLabel="Accident_alert_system.apk" index="22">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Set_Location_Alerts.java" index="21">
+<position info="not_deleted" x="6855" y="835"/>
+</item>
+<item historyLabel="Accident_alert_system.apk" index="22">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Home_Page.java" index="23">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Track_accideny.java" index="19">
+<position info="not_deleted" x="2046" y="0"/>
+</item>
+<item historyLabel="Home_Page.java" index="24">
+<position info="not_deleted" x="4755" y="0"/>
+</item>
+<item historyLabel="View_traffic_violation_details.java" index="25">
+<position info="not_deleted" x="1755" y="187"/>
+</item>
+<item historyLabel="Home_Page.java" index="24">
+<position info="not_deleted" x="6449" y="0"/>
+</item>
+<item historyLabel="View_dang_loctn_based_alert.java" index="26">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="View_Location_Based_Alert.java" index="27">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Home_Page.java" index="24">
+<position info="not_deleted" x="6449" y="0"/>
+</item>
+<item historyLabel="Home_Page.java" index="24">
+<position info="not_deleted" x="4755" y="0"/>
+</item>
+<item historyLabel="Accident_alert_system Manifest" index="28"/>
+<item active="true" historyLabel="Home_Page.java" index="24">
+<position info="not_deleted" x="4755" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottom"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="Accident_alert_system/AndroidManifest.xml">
+<persistable path="/Accident_alert_system/AndroidManifest.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="View_Location_Based_Alert.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/View_Location_Based_Alert.java">
+<persistable path="/Accident_alert_system/src/com/example/accident_alert_system/View_Location_Based_Alert.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="View_dang_loctn_based_alert.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/View_dang_loctn_based_alert.java">
+<persistable path="/Accident_alert_system/src/com/example/accident_alert_system/View_dang_loctn_based_alert.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="View_traffic_violation_details.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/View_traffic_violation_details.java">
+<persistable path="/Accident_alert_system/src/com/example/accident_alert_system/View_traffic_violation_details.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Home_Page.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/Home_Page.java">
+<persistable path="/Accident_alert_system/src/com/example/accident_alert_system/Home_Page.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="Accident_alert_system.apk" tooltip="Accident_alert_system/bin/Accident_alert_system.apk">
+<persistable path="/Accident_alert_system/bin/Accident_alert_system.apk"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Set_Location_Alerts.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/Set_Location_Alerts.java">
+<persistable path="/Accident_alert_system/src/com/example/accident_alert_system/Set_Location_Alerts.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Login.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/Login.java">
+<persistable path="/Accident_alert_system/src/com/example/accident_alert_system/Login.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Track_accideny.java" tooltip="Accident_alert_system/src/com/example/accident_alert_system/Track_accideny.java">
+<persistable path="/Accident_alert_system/src/com/example/accident_alert_system/Track_accideny.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="view_dang.xml" tooltip="Accident_alert_system/res/layout/view_dang.xml">
+<persistable path="/Accident_alert_system/res/layout/view_dang.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="view_hsp.xml" tooltip="Accident_alert_system/res/layout/view_hsp.xml">
+<persistable path="/Accident_alert_system/res/layout/view_hsp.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="view_loc.xml" tooltip="Accident_alert_system/res/layout/view_loc.xml">
+<persistable path="/Accident_alert_system/res/layout/view_loc.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="view_vio.xml" tooltip="Accident_alert_system/res/layout/view_vio.xml">
+<persistable path="/Accident_alert_system/res/layout/view_vio.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="accident.xml" tooltip="Accident_alert_system/res/layout/accident.xml">
+<persistable path="/Accident_alert_system/res/layout/accident.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_track_accideny.xml" tooltip="Accident_alert_system/res/layout/activity_track_accideny.xml">
+<persistable path="/Accident_alert_system/res/layout/activity_track_accideny.xml"/>
+</file>
+</mruList>
+</workbench>

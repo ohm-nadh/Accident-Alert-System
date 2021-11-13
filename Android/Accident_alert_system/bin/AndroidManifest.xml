@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.accident_alert_system"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:allowTaskReparenting="true"
+        android:icon="@drawable/l"
+        android:label="@string/app_name"
+        android:logo="@drawable/l"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.accident_alert_system.Register"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.Login"
+            android:label="@string/title_activity_login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.Set_Location_Alerts"
+            android:label="@string/title_activity_set__location__alerts" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.View_Location_Based_Alert"
+            android:label="@string/title_activity_view__location__based__alert" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.View_dang_loctn_based_alert"
+            android:label="@string/title_activity_view_dang_loctn_based_alert" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.Post_Complaint_admin"
+            android:label="@string/title_activity_post__complaint_admin" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.View_nearest_hospital_details"
+            android:label="@string/title_activity_view_nearest_hospital_details" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.View_traffic_violation_details"
+            android:label="@string/title_activity_view_traffic_violation_details" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.Home_Page"
+            android:label="@string/title_activity_home__page" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.Track_accident"
+            android:label="@string/title_activity_track_accident" >
+        </activity>
+        <activity
+            android:name="com.example.accident_alert_system.Track_accideny"
+            android:label="@string/title_activity_track_accideny" >
+        </activity>
+    </application>
+
+</manifest>

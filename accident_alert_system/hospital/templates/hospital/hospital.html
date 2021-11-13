@@ -1,0 +1,46 @@
+{% extends 'temp/admin.html' %}
+{% block base %}
+	<h1 align="center">REGISTER HOSPITAL</h1>
+	<form method="post">
+		<table align="center">
+            {% csrf_token %}
+								<tr>
+						<td>HOSPITAL NAME :</td>
+						<td><input type="text" name="name"></td>
+					</tr>
+					<tr>
+						<td>ADDRESS</td>
+						<td><textarea name="adr" rows="5"></textarea></td>
+
+					</tr>
+					<tr>
+						<td>PLACE</td>
+						<td><input type="text" name="place"></td>
+					</tr>
+					<tr>
+						<td>PHONE</td>
+						<td><input type="number" name="phone"></td>
+					</tr>
+					<TR>
+						<td>E-MAIL</td>
+						<TD><input type="email" name="email"></TD>
+					</TR>
+                     <TR>
+						<td>PASSWORD</td>
+						<TD><input type="password" name="pass"></TD>
+					</TR>
+					<tr>
+                         <td>LATITUDE</td>
+                        <td><input type="text" name="LATITUDE"> </td>
+                    </tr>
+                     <tr>
+                        <td>LONGTITUDE</td>
+                         <td><input type="text" name="LONGTITUDE">
+                         <tr>
+						<td><input type="submit" name="sub" value="ADD" class="btn btn-primary"></td>
+
+					</tr>
+		</table>
+	</form>
+
+{% endblock %}

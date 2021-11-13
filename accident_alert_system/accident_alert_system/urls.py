@@ -1,0 +1,32 @@
+"""accident_alert_system URL Configuration
+
+The `urlpatterns` list routes URLs to views. For more information please see:
+    https://docs.djangoproject.com/en/3.1/topics/http/urls/
+Examples:
+Function views
+    1. Add an import:  from my_app import views
+    2. Add a URL to urlpatterns:  path('', views.home, name='home')
+Class-based views
+    1. Add an import:  from other_app.views import Home
+    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
+Including another URLconf
+    1. Import the include() function: from django.urls import include, path
+    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+"""
+
+from django.conf.urls import url,include
+
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns,static
+urlpatterns = [
+
+    url('^complaint/',include('complaint.url')),
+    url('^location/',include('location.url')),
+    url('^hospital/',include('hospital.url')),
+    url('^login/',include('login.url')),
+    url('^police/',include('police.url')),
+    url('^violation/',include('violation.url')),
+    url('^accident_alert/',include('accident_alert.url')),
+    url('^dangerous_location/',include('dangerous_location.url')),
+    url('^user/', include('user.url')),
+]
+urlpatterns+=staticfiles_urlpatterns()

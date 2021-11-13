@@ -1,0 +1,11 @@
+#Wed Apr 21 17:34:08 IST 2021
+logcat.view.colsize.Text=682
+logcat.view.colsize.TID=62
+logcat.view.colsize.Level=35
+ddms.logcat.automonitor.userprompt=true
+logcat.view.colsize.Application=173
+logcat.view.colsize.PID=62
+logcat.view.colsize.Tag=133
+ddms.logcat.auotmonitor.level=error
+logcat.view.colsize.Time=165
+eclipse.preferences.version=1

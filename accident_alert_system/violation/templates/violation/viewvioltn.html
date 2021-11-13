@@ -1,0 +1,22 @@
+
+	<h1 align="center">VIEW VIOLATION DETAILS</h1>
+<table align="center" border="1">
+	<tr>
+		<td>V_ID</td>
+
+		<td>VIOLATION TYPE</td>
+
+		<td>FINE</td>
+	</tr>
+     {% if objval %}
+             {% for ob in objval %}
+	<tr><td>{{ ob.v_id }}</td>
+		<td>{{ ob.violation_type }}</td>
+		<td>{{ ob.fine }}</td>
+    </tr>
+         {% endfor %}
+        {% endif %}
+
+
+
+</table>
